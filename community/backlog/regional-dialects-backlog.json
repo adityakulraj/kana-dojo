@@ -626,7 +626,7 @@
     "region": "Kansai",
     "note": "Now used nationwide. (Set 4)",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
